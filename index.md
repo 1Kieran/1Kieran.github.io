@@ -27,20 +27,20 @@ University of Manitoba
 ***
 ### **WORK EXPERIENCE & ACHIEVEMENTS**
 ***
-**Bluhm Brothers Landscaping**                                                             April  2019 - August 2020 
+#### **Bluhm Brothers Landscaping**                                                             April  2019 - August 2020 
 
 Crew Leader and Landscaper
 * Completed large scale patio and wall projects ($5K to $30K)
 * Ensured alignment with customer expectation and managed communication on project budget changes and timeline adjustment
 * Optimized project organization to eliminate time and resource waste 
 
-**Stouts Pub and Grill**​                                                   ​​​                           Sep 2018 - August 2019
+#### **Stouts Pub and Grill**​                                                   ​​​                           Sep 2018 - August 2019
 
 Host and Bar Back
 * Worked in a fast-paced restaurant environment, to deliver customer orders and maintain a high standard of cleanliness to create a positive customer experience
 * Efficiently and accurately produced a variety of drink mixes and bartop appetizers as well as proactively maintained stock levels to ensure the adequate supply of product to meet customer demands
 
-**Boy Scouts of America** 						            Nov 2012 -  Nov 2017
+#### **Boy Scouts of America** 						            Nov 2012 -  Nov 2017
 
 Eagle Scout
 * Obtained the Highest rank in the Boy Scout program, Eagle scout, through earning 21+ merit badges, serving in leadership positions and volunteering for community service 
