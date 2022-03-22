@@ -33,7 +33,7 @@ _Modern Technical Writing_ outlines 8 steps of modern technical writing. They ar
 7. Help Others Write 
 8. Publish Frequently  
 
-The principle _don't write_ refers to the writers need to research before writing. Etter advises that writers become very familiar with their subject matter before beginning to write about it. This step requires that the write become something of an expert on the topic before starting the technical write up. The second principle _define the audience_ asks the writer to critily reflect on who they're writing for. This means understanding the need and issues the reader of the document are faced with when referring to the technical write up.  
+The principle _don't write_ refers to the writers need to research before writing. Etter advises that writers become very familiar with their subject matter before beginning to write about it. This step requires that the write become something of an expert on the topic before starting the technical write up. The second principle _define the audience_ asks the writer to critically reflect on who they're writing for. This means understanding the need and issues the reader of the document are faced with when referring to the technical write up.  
 
 In the case of writing a resume these steps are vitally important. These steps require the writer to understand the company they are applying to. What does this company need in an employee? What issues does this company face that the writer is unique suited to resolve? Additionally they must understand the audience they are writing for. What is the companies culture like? Are they formal or informal? What is the companies mission? These questions must be answers before writing the resume. As the resume itself is a prerequisite to this document, this guide will not go in to great detail about how to write a resume.  
 
@@ -82,9 +82,19 @@ Here is an example with cayman styling
 ***
 ## **Authors and Acknowledgments**
 ***
+* [Credit to Cayman theme][Cayman Theme]
+* 
 ***
 ## **FAQ**
 ***
+1. Why is Markdown better than a word 
+processor?
+
+Markdown allows us to use tools like Jekyll to quickly change the styling of our document as well as markdown easily translates in to XML. Word lacks both of these features.  
+
+2. Why does is my static site not displaying the changes i made to my styling or content?
+
+GitHub can take awhile to sync up old files with new ones. Try checking again in a few minutes.
 
 
 [MarkDown VSCode]: https://code.visualstudio.com/docs/languages/markdown
@@ -93,3 +103,4 @@ Here is an example with cayman styling
 [GitHub Create]: https://github.com/join
 [GitHub Intro]: https://lab.github.com/githubtraining/introduction-to-github
 [GitHub Themes]: https://pages.github.com/themes/
+[Cayman Theme]: https://github.com/pages-themes/cayman
