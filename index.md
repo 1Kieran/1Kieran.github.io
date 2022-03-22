@@ -45,3 +45,4 @@ Host and Bar Back
 Eagle Scout
 * Obtained the Highest rank in the Boy Scout program, Eagle scout, through earning 21+ merit badges, serving in leadership positions and volunteering for community service 
 * Designed, developed project plan, secured materials and a led scout team to complete a Peace Garden and Entry Arbor for a local church community
+***
