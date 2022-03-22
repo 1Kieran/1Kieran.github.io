@@ -67,7 +67,7 @@ This example use cayman but this can be replace by any other GitHub supported Je
 11.  The static website is now ready to be run simple go the domain "your-user-name.github.io" replacing your-user-name with your GitHub user name. GitHub pages has turned your index.md file into xml and then the Jekyll theme uses CSS and Javascript to stylize your page.
 
 Here is an example with cayman styling
-
+![Hosted Resume](TechCommA2.gif)
  
 ***
 ## **More Resources**
