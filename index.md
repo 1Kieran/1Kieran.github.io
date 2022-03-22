@@ -6,7 +6,6 @@ title: "Kieran Ketelsen's Resume"
 
 
 ***
-
 ### **EDUCATION** 
 ***
 **Bachelor of Science in Computer Science**  
@@ -24,6 +23,7 @@ University of Manitoba
 * Wrote generalizable and easily understandable code in Microsoft Visual Studio Code allowing for easier collaboration with other programmers
 * Implemented Relational Databases using SQL
 * Collaborated with a team using Github to create a functional study tracker website using Javascript and Html  
+
 ***
 ### **WORK EXPERIENCE & ACHIEVEMENTS**
 ***
